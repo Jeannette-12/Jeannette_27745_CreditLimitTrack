@@ -37,9 +37,11 @@ Specific objectives:
 
 
 Limitation: the data comes from credit card clients in Taiwan in 2005, not from Rwanda.
-But there are some statistics from National Bank of Rwanda as shown above.
 It is used as real data to build and test the system. The Rwanda sources in the research log
 show why the problem matters locally.
+
+But there are some statistics from National Bank of Rwanda as shown above.
+Link: https://www.google.com/search?q=National+bank+of+rwanda+statistics+about+credit+cards&oq=National+bank+of+rwanda+statistics+about+credit+cards+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRiPAjIHCAQQIRiPAtIBCjM4OTc0ajBqMTWoAgiwAgHxBZUL2yNPrPtP&sourceid=chrome&source=chrome.rb&ie=UTF-8
 
 ## Innovation
 
